@@ -16,7 +16,7 @@ function main (){
             fun = fun - (fun * 0.2);
             break;
         default:
-            text: "Choose a case input";
+            text: "Case Input Required";
     }
 }
 
