@@ -19,3 +19,5 @@ function main (){
             text: "Choose a case input";
     }
 }
+
+main();
